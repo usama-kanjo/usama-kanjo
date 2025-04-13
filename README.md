@@ -1,7 +1,7 @@
 ## Hi there , I am Usama!👋
 
 
-Here's your fully customized GitHub profile README with all your details integrated professionally:
+
 
 ---
 
@@ -41,9 +41,10 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys C3EB00C8941781F6B5279BF68750
 ```  
 
 #### **🌐 Socials**  
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)  
-
+-->
 ---
 
 ### **📌 Pinned Projects**  

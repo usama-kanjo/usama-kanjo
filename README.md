@@ -1,10 +1,6 @@
 ## Hi there , I am Usama!👋
 
 
-
-
----
-
 # **🔐 Security Enthusiast | Python & Bash | GPG/PGP Advocate**  
 
 ### **🛡️ About Me**  

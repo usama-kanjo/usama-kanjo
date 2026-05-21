@@ -18,17 +18,28 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### 🔐 Security Tools
 ![GPG](https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Kleopatra](https://img.shields.io/badge/Kleopatra-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
 #### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 📊 Data & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -41,30 +52,34 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <!-- GitHub Stats - Kendi Vercel instance'ın yoksa github-readme-stats.vercel.app kullan -->
   <img src="https://github-readme-stats.vercel.app/api?username=usama-kanjo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <br/><br/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama-kanjo&layout=compact&theme=dark&hide_border=true&langs_count=50&size_weight=0.2&count_weight=0.8" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama-kanjo&theme=dark&hide_border=true" />
+  
+  <!-- Streak Stats - YENİ ADRES -->
+  <img src="https://streak-stats.demolab.com?user=usama-kanjo&theme=dark&hide_border=true" />
 </div>
 
 ### 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=4&row=10&column=4)
+<!-- Doğru trophy URL'i -->
 ![](https://github-profile-trophy.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=4&row=10&column=4&title=-Issues,-Stars,-PullRequest,-MultiLanguage,-Commits,-Repositories,-Followers)
-
 ---
 
 ### 🔗 Contact & Verification
@@ -78,21 +93,16 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys C3EB00C8941781F6B5279BF68750
 
 ### 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usama-kanjo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
 
 ---
 
 ### 🔎 Visitor Counter
-![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fusama-kanjo&label=PROFILE%20VIEWS&countColor=%23263759)
+![Profile Views](https://komarev.com/ghpvc/?username=usama-kanjo&color=263759&style=for-the-badge)
 
 ---
 
 ### 📌 Pinned Projects
-<!--
-[![Hardened Linux](https://github-readme-stats.vercel.app/api/pin/?username=usama-kanjo&repo=hardened-linux&theme=dark)](https://github.com/usama-kanjo/hardened-linux)
-[![PGP Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=usama-kanjo&repo=pgp-toolkit&theme=dark)](https://github.com/usama-kanjo/pgp-toolkit)
--->
+[![Dental Lab](https://github-readme-stats.vercel.app/api/pin/?username=usama-kanjo&repo=hardened-linux&theme=dark&hide_border=true)](https://github.com/usama-kanjo/full-stacke-project)
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->

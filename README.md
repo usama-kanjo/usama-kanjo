@@ -79,6 +79,7 @@
 
 ### 🏆 GitHub Trophies
 <!-- Doğru trophy URL'i -->
+![](https://github-trophies.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=4&row=10&column=4)
 ![](https://github-profile-trophy.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=4&row=10&column=4&title=-Issues,-Stars,-PullRequest,-MultiLanguage,-Commits,-Repositories,-Followers)
 ---
 

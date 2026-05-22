@@ -63,7 +63,7 @@
 ---
 
 ### 📊 GitHub Analytics
-
+ <!-- 
 <div align="center">
   <!-- GitHub Stats - Kendi Vercel instance'ın yoksa github-readme-stats.vercel.app kullan -->
   <img src="https://github-readme-stats.vercel.app/api?username=usama-kanjo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -72,7 +72,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama-kanjo&layout=compact&theme=dark&hide_border=true&langs_count=50&size_weight=0.2&count_weight=0.8" />
   <br/><br/>
-  
+   -->
   <!-- Streak Stats - YENİ ADRES -->
   <img src="https://streak-stats.demolab.com?user=usama-kanjo&theme=dark&hide_border=true" />
 </div>

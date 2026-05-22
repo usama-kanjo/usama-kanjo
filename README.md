@@ -107,7 +107,7 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys C3EB00C8941781F6B5279BF68750
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->
-<!-- Automatically updates with recent activity -->
+1. 🔒 Assigned issue [#1](https://github.com/usama-kanjo/skills-introduction-to-repository-management/issues/1) in [usama-kanjo/skills-introduction-to-repository-management](https://github.com/usama-kanjo/skills-introduction-to-repository-management)
 <!--END_SECTION:activity-->
 
 ---

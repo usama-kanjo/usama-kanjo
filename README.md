@@ -103,7 +103,21 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys C3EB00C8941781F6B5279BF68750
 ---
 
 ### 📌 Pinned Projects
-[![Dental Lab](https://github-readme-stats.vercel.app/api/pin/?username=usama-kanjo&repo=hardened-linux&theme=dark&hide_border=true)](https://github.com/usama-kanjo/full-stacke-project)
+<div align="center">
+
+<a href="https://github.com/usama-kanjo/full-stacke-project">
+  <img src="https://img.shields.io/badge/🦷_Dental_Lab-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Dental Lab"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/usama-kanjo/full-stacke-project">
+  <img src="https://img.shields.io/github/stars/usama-kanjo/full-stacke-project?color=yellow&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/usama-kanjo/full-stacke-project?color=blue&style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/github/languages/top/usama-kanjo/full-stacke-project?color=green&style=flat-square" alt="Language"/>
+</a>
+
+</div>
 
 ### 🔄 Latest GitHub Activity
 <!--START_SECTION:activity-->

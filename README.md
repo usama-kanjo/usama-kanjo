@@ -85,6 +85,8 @@
 
 ### 🔗 Contact & Verification
 
+🌐 **Website**: [kanjo.shop](https://kanjo.shop)
+
 📧 **Email**: [m.osama.kanjo2007@gmail.com](mailto:m.osama.kanjo2007@gmail.com)
 
 🔑 **PGP Public Key**: [`0x68750929ABD1F1F44`](https://keys.openpgp.org/vks/v1/by-fingerprint/C3EB00C8941781F6B5279BF68750929ABD1F1F44)
@@ -93,7 +95,11 @@ gpg --keyserver hkps://keys.openpgp.org --recv-keys C3EB00C8941781F6B5279BF68750
 ```
 
 ### 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usama-kanjo)
+<p align="left">
+  <a href="https://github.com/usama-kanjo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/usamakanjo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://kanjo.shop"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ---
 

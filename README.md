@@ -133,7 +133,7 @@ For secure communication, verify my identity using my PGP key:
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=4&row=2&column=4&title=-Issues,-Stars,-PullRequest,-MultiLanguage" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=false&margin-w=8&margin-h=4&row=10&column=4" alt="GitHub Trophies"/>
 </p>
 <br>
 

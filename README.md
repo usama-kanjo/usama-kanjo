@@ -80,6 +80,31 @@ Computer science student passionate about web development and open source. Learn
 
 
 
+<details open>
+  <summary><h3>🔐 Security Tools</h3></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/GPG-0093DD?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="GPG"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+    <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge" alt="Metasploit"/>
+    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+    <img src="https://img.shields.io/badge/Kleopatra-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Kleopatra"/>
+  </p>
+</details>
+
+<details open>
+  <summary><h3>📊 Data & AI</h3></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  </p>
+</details>
+
+
 ### 🔗 Connect With Me
 
 <p align="left">
@@ -98,12 +123,29 @@ For secure communication, verify my identity using my PGP key:
 [Download Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/C3EB00C8941781F6B5279BF68750929ABD1F1F44)
 
 
+<br>
+<h3 align="center">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usama-kanjo&theme=tokyonight&hide_border=true&background=00000000&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2ea043&sideLabels=2ea043&dates=8b949e" alt="GitHub Streak Stats"/>
+</p>
+<br>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=usama-kanjo&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=4&row=2&column=4&title=-Issues,-Stars,-PullRequest,-MultiLanguage" alt="GitHub Trophies"/>
+</p>
+<br>
+
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=usama-kanjo&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=usama-kanjo&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+<br>
 
 ### 📈 Contribution Graph
 
@@ -158,6 +200,49 @@ For secure communication, verify my identity using my PGP key:
 
 <br>
 
+<br>
+<h3 align="center">📌 Pinned Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🦷 Dental Lab</h4>
+        <a href="https://github.com/usama-kanjo/full-stacke-project">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea043" alt="Dental Lab Repo"/>
+        </a>
+        <br/><br/>
+        <a href="https://github.com/usama-kanjo/full-stacke-project">
+          <img src="https://img.shields.io/github/stars/usama-kanjo/full-stacke-project?color=yellow&style=flat-square" alt="Stars"/>
+          <img src="https://img.shields.io/github/forks/usama-kanjo/full-stacke-project?color=blue&style=flat-square" alt="Forks"/>
+          <img src="https://img.shields.io/github/languages/top/usama-kanjo/full-stacke-project?color=green&style=flat-square" alt="Language"/>
+        </a>
+        <br/><br/>
+        <p>
+          <sub>Full-stack dental laboratory management system</sub>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h4>🚀 Another Project</h4>
+        <a href="https://github.com/usama-kanjo/another-project">
+          <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2ea043" alt="Another Repo"/>
+        </a>
+        <br/><br/>
+        <a href="https://github.com/usama-kanjo/another-project">
+          <img src="https://img.shields.io/github/stars/usama-kanjo/another-project?color=yellow&style=flat-square" alt="Stars"/>
+          <img src="https://img.shields.io/github/forks/usama-kanjo/another-project?color=blue&style=flat-square" alt="Forks"/>
+          <img src="https://img.shields.io/github/languages/top/usama-kanjo/another-project?color=green&style=flat-square" alt="Language"/>
+        </a>
+        <br/><br/>
+        <p>
+          <sub>Project description here</sub>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
 <!-- AVAILABILITY SECTION -->
 <h3 align="center">📫 Availability</h3>
 
@@ -185,6 +270,35 @@ For secure communication, verify my identity using my PGP key:
 </div>
 
 <br>
+<h3 align="center">🔄 Latest GitHub Activity</h3>
+
+<div align="center">
+  <!--START_SECTION:activity-->
+  <table>
+    <tr>
+      <td align="center">🔒</td>
+      <td>
+        Unlabeled issue <a href="https://github.com/usama-kanjo/full-stacke-project/issues/5">#5</a> 
+        in <a href="https://github.com/usama-kanjo/full-stacke-project">usama-kanjo/full-stacke-project</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">📝</td>
+      <td>
+        Committed to <a href="https://github.com/usama-kanjo/full-stacke-project">usama-kanjo/full-stacke-project</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">⭐</td>
+      <td>
+        Starred <a href="https://github.com/someone/cool-repo">someone/cool-repo</a>
+      </td>
+    </tr>
+  </table>
+  <!--END_SECTION:activity-->
+</div>
+<br>
+
 
 <!-- EDUCATION SECTION -->
 <h3 align="center">🎓 Education</h3>
@@ -237,6 +351,12 @@ For secure communication, verify my identity using my PGP key:
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=usama-kanjo&color=2ea043&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+<br>
+
 <!-- WAKATIME STATS (Dynamic) --
 <h3 align="center">⏱️ Weekly Coding Activity</h3>
 <!--
